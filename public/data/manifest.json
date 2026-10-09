@@ -1,0 +1,311 @@
+{
+  "states": {
+    "AL": {
+      "fips": "01",
+      "name": "Alabama",
+      "vintage": 2024,
+      "counties": 67
+    },
+    "AK": {
+      "fips": "02",
+      "name": "Alaska",
+      "vintage": 2024,
+      "counties": 30
+    },
+    "AZ": {
+      "fips": "04",
+      "name": "Arizona",
+      "vintage": 2024,
+      "counties": 15
+    },
+    "AR": {
+      "fips": "05",
+      "name": "Arkansas",
+      "vintage": 2024,
+      "counties": 75
+    },
+    "CA": {
+      "fips": "06",
+      "name": "California",
+      "vintage": 2024,
+      "counties": 58
+    },
+    "CO": {
+      "fips": "08",
+      "name": "Colorado",
+      "vintage": 2024,
+      "counties": 64
+    },
+    "CT": {
+      "fips": "09",
+      "name": "Connecticut",
+      "vintage": 2024,
+      "counties": 9
+    },
+    "DE": {
+      "fips": "10",
+      "name": "Delaware",
+      "vintage": 2024,
+      "counties": 3
+    },
+    "DC": {
+      "fips": "11",
+      "name": "District of Columbia",
+      "vintage": 2024,
+      "counties": 1
+    },
+    "FL": {
+      "fips": "12",
+      "name": "Florida",
+      "vintage": 2024,
+      "counties": 67
+    },
+    "GA": {
+      "fips": "13",
+      "name": "Georgia",
+      "vintage": 2024,
+      "counties": 159
+    },
+    "HI": {
+      "fips": "15",
+      "name": "Hawaii",
+      "vintage": 2024,
+      "counties": 5
+    },
+    "ID": {
+      "fips": "16",
+      "name": "Idaho",
+      "vintage": 2024,
+      "counties": 44
+    },
+    "IL": {
+      "fips": "17",
+      "name": "Illinois",
+      "vintage": 2024,
+      "counties": 102
+    },
+    "IN": {
+      "fips": "18",
+      "name": "Indiana",
+      "vintage": 2024,
+      "counties": 92
+    },
+    "IA": {
+      "fips": "19",
+      "name": "Iowa",
+      "vintage": 2024,
+      "counties": 99
+    },
+    "KS": {
+      "fips": "20",
+      "name": "Kansas",
+      "vintage": 2024,
+      "counties": 105
+    },
+    "KY": {
+      "fips": "21",
+      "name": "Kentucky",
+      "vintage": 2024,
+      "counties": 120
+    },
+    "LA": {
+      "fips": "22",
+      "name": "Louisiana",
+      "vintage": 2024,
+      "counties": 64
+    },
+    "ME": {
+      "fips": "23",
+      "name": "Maine",
+      "vintage": 2024,
+      "counties": 16
+    },
+    "MD": {
+      "fips": "24",
+      "name": "Maryland",
+      "vintage": 2024,
+      "counties": 24
+    },
+    "MA": {
+      "fips": "25",
+      "name": "Massachusetts",
+      "vintage": 2024,
+      "counties": 14
+    },
+    "MI": {
+      "fips": "26",
+      "name": "Michigan",
+      "vintage": 2024,
+      "counties": 83
+    },
+    "MN": {
+      "fips": "27",
+      "name": "Minnesota",
+      "vintage": 2024,
+      "counties": 87
+    },
+    "MS": {
+      "fips": "28",
+      "name": "Mississippi",
+      "vintage": 2024,
+      "counties": 82
+    },
+    "MO": {
+      "fips": "29",
+      "name": "Missouri",
+      "vintage": 2024,
+      "counties": 115
+    },
+    "MT": {
+      "fips": "30",
+      "name": "Montana",
+      "vintage": 2024,
+      "counties": 56
+    },
+    "NE": {
+      "fips": "31",
+      "name": "Nebraska",
+      "vintage": 2024,
+      "counties": 93
+    },
+    "NV": {
+      "fips": "32",
+      "name": "Nevada",
+      "vintage": 2024,
+      "counties": 17
+    },
+    "NH": {
+      "fips": "33",
+      "name": "New Hampshire",
+      "vintage": 2024,
+      "counties": 10
+    },
+    "NJ": {
+      "fips": "34",
+      "name": "New Jersey",
+      "vintage": 2024,
+      "counties": 21
+    },
+    "NM": {
+      "fips": "35",
+      "name": "New Mexico",
+      "vintage": 2024,
+      "counties": 33
+    },
+    "NY": {
+      "fips": "36",
+      "name": "New York",
+      "vintage": 2024,
+      "counties": 62
+    },
+    "NC": {
+      "fips": "37",
+      "name": "North Carolina",
+      "vintage": 2024,
+      "counties": 100
+    },
+    "ND": {
+      "fips": "38",
+      "name": "North Dakota",
+      "vintage": 2024,
+      "counties": 53
+    },
+    "OH": {
+      "fips": "39",
+      "name": "Ohio",
+      "vintage": 2024,
+      "counties": 88
+    },
+    "OK": {
+      "fips": "40",
+      "name": "Oklahoma",
+      "vintage": 2024,
+      "counties": 77
+    },
+    "OR": {
+      "fips": "41",
+      "name": "Oregon",
+      "vintage": 2024,
+      "counties": 36
+    },
+    "PA": {
+      "fips": "42",
+      "name": "Pennsylvania",
+      "vintage": 2024,
+      "counties": 67
+    },
+    "RI": {
+      "fips": "44",
+      "name": "Rhode Island",
+      "vintage": 2024,
+      "counties": 5
+    },
+    "SC": {
+      "fips": "45",
+      "name": "South Carolina",
+      "vintage": 2024,
+      "counties": 46
+    },
+    "SD": {
+      "fips": "46",
+      "name": "South Dakota",
+      "vintage": 2024,
+      "counties": 66
+    },
+    "TN": {
+      "fips": "47",
+      "name": "Tennessee",
+      "vintage": 2024,
+      "counties": 95
+    },
+    "TX": {
+      "fips": "48",
+      "name": "Texas",
+      "vintage": 2024,
+      "counties": 254
+    },
+    "UT": {
+      "fips": "49",
+      "name": "Utah",
+      "vintage": 2024,
+      "counties": 29
+    },
+    "VT": {
+      "fips": "50",
+      "name": "Vermont",
+      "vintage": 2024,
+      "counties": 14
+    },
+    "VA": {
+      "fips": "51",
+      "name": "Virginia",
+      "vintage": 2024,
+      "counties": 133
+    },
+    "WA": {
+      "fips": "53",
+      "name": "Washington",
+      "vintage": 2024,
+      "counties": 39
+    },
+    "WV": {
+      "fips": "54",
+      "name": "West Virginia",
+      "vintage": 2024,
+      "counties": 55
+    },
+    "WI": {
+      "fips": "55",
+      "name": "Wisconsin",
+      "vintage": 2024,
+      "counties": 72
+    },
+    "WY": {
+      "fips": "56",
+      "name": "Wyoming",
+      "vintage": 2024,
+      "counties": 23
+    }
+  },
+  "updatedAt": "2026-10-09T20:45:13.008Z"
+}
